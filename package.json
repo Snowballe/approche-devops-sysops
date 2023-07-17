@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Snowballe/approche-devops-sysops#readme",
   "devDependencies": {
     "should": "^13.2.3"
-  }
+  },
+"scripts": {
+   "test": "mocha tests/"
+ }
 }
